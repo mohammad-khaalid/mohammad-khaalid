@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@khalid191](https://hashnode.com/@khalid191)
 
-- 💬 Ask me about **React,Typescript,Next,Java,Node,MySql,Firebase,MongoDb**
+- 💬 Ask me about **React,React Native,Next js,Java,Node,MySql,Firebase,MongoDb**
 
 - 📫 How to reach me **quazimohammadkhalid@gmail.com**
 
