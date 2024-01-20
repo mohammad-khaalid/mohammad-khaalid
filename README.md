@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Khalid</h1>
-<h3 align="center">A passionate full stack and mobile developer from India</h3>
+<h3 align="center">A passionate Full stack and Mobile developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-khaalid&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-khaalid" /> </p>
 
